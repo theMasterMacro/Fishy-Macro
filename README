@@ -1,6 +1,7 @@
 heres how to set it up:
-1: clone this repo 
-2: after cloning it, try to find a folder called (Fishy) you can find it by using the command cd (repo name that you cloned) after you did that you copy the directory youre in and paste it into the file explorer on the top
-3: there will be an EXE called FishyMacro, once you open it, you will be met with a decent tkinter GUI
+1: You can Download the FishyMacro in the release tab on the right side
+2: after FishyMacro is done installing, unzip the folder and open FishyMacro
+3: you will be met with a decent tkinter GUI with different tabs and a seperate txt file called "stuck on something? open for help" if you are having any trouble on setting the macro up
 4: choose the rod you have in the "Rod Type" settings and put Detection speed to 100-350 (more fps = more CPU usage)    LOW end = 80-100, MID end = 100-200, High end = 200-1000 
 5: on the Automation tab there isnt much to explain and everything is self explanatory
+6: go to fish and activate the macro
